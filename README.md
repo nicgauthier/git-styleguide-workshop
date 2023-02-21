@@ -34,4 +34,43 @@
 
 ### NB : On ne s'attend pas à ce que le code roule , la majorité du code dans les fichiers faits références à des objets qui ne sont pas présents dans votre environnement. On s'intéresse uniquement à la syntaxe
 
-## 6. Lorsque vous pensez avoir corrigé les erreurs de styleguide
+
+## 6. Lorsque vous pensez avoir corrigé les erreurs de styleguide, "commitez" et "pushez" vos modifications
+
+### Assurez vous de sauvegarder votre fichier
+
+![](./git-workshop-images/save.PNG)
+
+### Cochez le fichier que vous voulez "commiter"
+
+![](./git-workshop-images/stage_button.PNG)
+
+### Ouvrez la fenêtre de "Commit"
+
+![](./git-workshop-images/commit_button.PNG)
+
+
+### Ajoutez une description brève mais claire des changements que vous venez de faire
+
+![](./git-workshop-images/commit_desc.PNG)
+
+
+### Appuyez sur commit
+
+![](./git-workshop-images/commit_button_final.PNG)
+
+
+### "Pushez"
+
+![](./git-workshop-images/push_button.PNG)
+
+
+# 7. Vous voulez maintenant créer une pull request pour merger les changements que vous venez de faire dans la branche assignée à votre équipe
+
+### Dans Github cliquer sur l'onglet de pull request
+
+
+![](./git-workshop-images/pull_request_tab.PNG)
+
+
+
