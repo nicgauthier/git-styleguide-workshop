@@ -34,7 +34,6 @@
 
 ### NB : On ne s'attend pas à ce que le code roule , la majorité du code dans les fichiers faits références à des objets qui ne sont pas présents dans votre environnement. On s'intéresse uniquement à la syntaxe
 
-
 ## 6. Lorsque vous pensez avoir corrigé les erreurs de styleguide, "commitez" et "pushez" vos modifications
 
 ### Assurez vous de sauvegarder votre fichier
@@ -49,28 +48,47 @@
 
 ![](./git-workshop-images/commit_button.PNG)
 
-
 ### Ajoutez une description brève mais claire des changements que vous venez de faire
 
 ![](./git-workshop-images/commit_desc.PNG)
-
 
 ### Appuyez sur commit
 
 ![](./git-workshop-images/commit_button_final.PNG)
 
-
 ### "Pushez"
 
 ![](./git-workshop-images/push_button.PNG)
-
 
 # 7. Vous voulez maintenant créer une pull request pour merger les changements que vous venez de faire dans la branche assignée à votre équipe
 
 ### Dans Github cliquer sur l'onglet de pull request
 
-
 ![](./git-workshop-images/pull_request_tab.PNG)
 
+### Selectionnez la branche dans laquelle vous voulez "merger" vos changements, soit là branche assignée à votre équipe
 
+![](./git-workshop-images/target_branch.PNG)
+
+### Selectionnez la branche que vous voulez "merger"
+
+![](./git-workshop-images/source_branch.PNG)
+
+### Assurez vous que les changements correspondent bien à ce que vous avez fait et créer votre pull request
+
+![](./git-workshop-images/create_pull_request.PNG)
+
+### Ajoutez votre arbitre comme reviewer de votre pull request et créez la pull request
+
+![](./git-workshop-images/add_reviewer.PNG)
+
+
+# 8. Si votre arbitre approuve votre pull request c'est que vous avez correctement corrigé les erreurs de styleguide!
+
+### Si ce n'est pas le cas, votre arbitre ajoutera des demandes de changements à certaines lignes du fichier pour vous orientez dans vos recherches.
+### Si vous ne trouvez vraiment pas, en dernier recours l'arbitre est autorisé à vous donner des indices pour vous permettre de progresser.
+
+![](./git-workshop-images/merge_pr.PNG)
+
+![](./git-workshop-images/confirm_merge.PNG)
 
