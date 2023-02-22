@@ -33,6 +33,7 @@ Déterminer un ordre pour déterminer la séquence dans laquelle chaque joueur s
 
 Une fois l'ordre déterminé, le premier joueur peux débuter en suivant les instructions qui se retrouve dans le README de la branche au nom de votre équipe. Le branche assignée à votre équipe se nomme "team_x" où x est le numéro de votre équipe.
 
-Pour aller dans la branche assignée à votre équipe 
 
+Pour selectionner la branche assignée à votre équipe. Vous pouvez soit la choisir dans la liste déroulante ou encore écrire le nom de la branche pour ensuite la selectionner. Si vous ne voyez pas votre branche dans la liste de branche appuyer sur "View all branches" tout au bas de la liste déroulante
 
+![](./git-workshop-images/gh_branch.PNG)
