@@ -1,5 +1,7 @@
-experience4model <- setDT(read_object("Experience4model4terr.rds"))
+experience_dt <- setDT(read_object("Experience4model4terr.rds"))
 
 ### Sélectionner les observation où il y a des sinistres ###
-dt_4model <- experience4model[UNI_AUTRE != 0 & YEAR < 2020 & MNT_ECR_AUTRE > 0,]
+model_dt <- experience_dt[UNI_AUTRE != 0 & YEAR < 2020 & MNT_ECR_AUTRE > 0,]
+
+#En temps normal, jaurais dis que year aurait du etre en minuscule, mais dans ce cas-ci, le data venait de SAS et year est en majuscule, j’accepte les deux
 
