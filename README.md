@@ -10,6 +10,11 @@ Votre rôle est de s'assurer que les joueurs respectent l'esprit du jeu et d'off
 
 Lorsque le premier joueur s'executera, le fichier contenant des segments de code R à corriger sera déjà présent dans la branche assignée à votre équipe.
 
+# Corrigé
+
+le corrigé des fichier se trouve dans le dossier "src" de ce repo. Les fichiers se nomme respectivement sg_1.R, sg_2.R, sg_3.R etc.
+
+
 # Review
 
 Votre première action arrivera donc lorsque le joueur va soumettre sa pull request. À ce moment là vous serez appelé à faire une "review" pour vérifier si tous les erreurs de style guide ont bien été corrigés.
@@ -23,8 +28,6 @@ Pour ajouter des commentaires sur des lignes spécifique du code, pour par exemp
 ![](./git-workshop-images/add_comment.PNG)
 
 Une fois votre "review" terminée, appuyez sur le bouton "Review changes" pour soit approuver la pull request (si les erreurs ont été corrigées) ou encore demander des changements
-
-le corrigé des fichier se trouve dans le dossier "src" de ce repo. Les fichiers se nomme respectivement sg_1.R, sg_2.R, sg_3.R etc.
 
 ![](./git-workshop-images/submit_review.PNG)
 
