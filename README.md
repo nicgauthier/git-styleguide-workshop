@@ -20,7 +20,7 @@ Le but de l'atelier est de compléter une image qui est créee à partir de char
 
 ## Style guide
 
-Un style guide et simplement un guide de règle pour s'assurer que les choix syntaxiques d'un programmeur sont cohérentes avec les choix syntaxiques de ses pairs. Le but est de facilité la lecture et la compréhension du code indépendament de l'auteur.
+Un style guide et simplement un guide de règle pour s'assurer que les choix syntaxiques d'un programmeur sont cohérents avec les choix syntaxiques de ses pairs. Le but est de facilité la lecture et la compréhension du code indépendament de l'auteur.
 
 Le style guide qui a été adopté chez beneva est décrit dans le repo suivant [styleguide](https://github.com/LaCapitale/cgen-actu-coding)
 
