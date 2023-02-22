@@ -35,3 +35,5 @@ Une fois l'ordre déterminé, le premier joueur peux débuter en suivant les ins
 Pour selectionner la branche assignée à votre équipe. Vous pouvez soit la choisir dans la liste déroulante ou encore écrire le nom de la branche pour ensuite la selectionner. Si vous ne voyez pas votre branche dans la liste de branche appuyer sur "View all branches" tout au bas de la liste déroulante
 
 ![](./img/gh_branch.PNG)
+
+Les instructions suivantes se trouve dans README de la branche assignée à votre équipe
