@@ -104,7 +104,8 @@
 
 ## Avec vos nouvelles connaissances mergez la branche mentionnée par l'arbitre dans la branche assignée à votre équipe
 
-## 11. Si 4 membres de votre équipe ont complété tous ces étapes (ou tout autre multiple de 4). Votre arbitre vous dévoilera le nom d'une branche que vous pouvez merger dans la branche d'une autre équipe qui ralentira leur progression en causant un "merge conflict" lorsqu'ils tenteront de faire progresser leur image.
+## 11. Si 4 membres de votre équipe ont complété tous ces étapes (ou tout autre multiple de 4). Votre arbitre vous dévoilera le nom d'une branche qui vous permettra d'ajouter un obstacle à l'équipe dont le numéro est le numéro de votre équipe + 1. Si vous êtes la dernière équipe vous ajouterez un obstacle à l'équipe 1. Cela ralentira leur progression en causant un "merge conflict" lorsqu'ils tenteront de faire progresser leur image.
+
 
 ## Si ce n'est pas le cas, l'arbitre ajoutera un nouveau fichier de lignes de code qui ne respectent pas le styleguide à votre branche et le joueur suivant doit simplement répéter les étapes 1 à 11 à son tour!
 
