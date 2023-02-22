@@ -1,0 +1,1 @@
+set(input_dt, j = "id", value = paste0(input_dt[["VEH_NO_POLICE"]], input_dt[["VEH_NO"]]))

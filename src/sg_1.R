@@ -1,0 +1,1 @@
+set(input_dt, j = "nbr_claim_tar_princ_drv_tot_1yr", value = sum_claims(input_dt[["claim_tar_princ_drv_tot_1yr_ind"]]))
