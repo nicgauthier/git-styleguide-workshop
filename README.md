@@ -21,9 +21,13 @@ Pour ajouter des commentaires sur des lignes spécifique du code, pour par exemp
 
 Une fois votre "review" terminée, appuyez sur le bouton "Review changes" pour soit approuver la pull request (si les erreurs ont été corrigées) ou encore demander des changements
 
+le corrigé des fichier se trouve dans le dossier "src" de ce repo. Les fichiers se nomme respectivement sg_1.R, sg_2.R, sg_3.R etc.
+
 
 ![](./git-workshop-images/submit_review.PNG)
 
-Lorsque le joueur aura mergé la PR que vous venez d'approuver, vous devrez ajouter le prochain fichier de 
+Lorsque le joueur aura mergé la PR que vous venez d'approuver, vous devrez lui dévoiler la branche à merger pour faire progresser la complétion de leur images ascii. Le nom de la branche est "team-i-ascii-x" où i correspond au numéro de votre équipe et x correspond au numéro du tour auquel vous êtes rendus. Par exemple, lorsque le premier joueur est rendu à cette étape-ci et que vous êtes l'équipe 1 , dites lui de merger la branche "team-1-ascii-1", rendu au deuxième joueur ce sera la branche "team-1-ascii-2" et ainsi de suite.   
+
+Lorsque le joueur aura mergé la branche pour faire progression son image vous devrez ajouter le prochain fichier de se style guide à corriger pour le prochain joueur. Il suffit de merger la branche "styleguide-x" où x correspond au numéro du tour auquel vous êtes rendus. Donc rendu au deuxième joueur, vous avez a merger la branche "styleguide-2" dans la branche assignée à votre équipe. Une fois la branche mergée vous pouvez dire au deuxième joueur de commencer son tour
 
 
