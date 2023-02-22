@@ -14,9 +14,13 @@
 
 ## 2. Si vous avez déjà cloné le repo et que c'est à votre tour de jouer, créer une branche de développement à partir de la branche assignée à votre équipe.
 
-### ATTENTION : le nom de votre branche ne doit pas être le même qu'une branche qui existe déjà, vous devez donc vous assurer d'avoir un nom unique mais qui indique tout de même de facon claire les changements que vous allez faire!
+### Selectionnez la branche assignée à votre équipe. Vous pouvez soit la choisir dans la liste déroulante ou encore écrire le nom de la branche pour ensuite la selectionner. Si vous ne voyez pas votre branche dans la liste de branche appuyer sur "View all branches" tout au bas de la liste déroulante
 
 ![](./git-workshop-images/gh_branch.PNG)
+
+
+### ATTENTION : le nom de votre branche ne doit pas être le même qu'une branche qui existe déjà, vous devez donc vous assurer d'avoir un nom unique mais qui indique tout de même de facon claire les changements que vous allez faire!
+
 
 ![](./git-workshop-images/gh_create_branch.PNG)
 
@@ -32,7 +36,7 @@
 
 ## 5. Ouvrez le fichier de code avec des erreurs de style guide le plus récemment ajouté et corrigez les erreurs de styleguide
 
-### NB : On ne s'attend pas à ce que le code roule , la majorité du code dans les fichiers faits références à des objets qui ne sont pas présents dans votre environnement. On s'intéresse uniquement à la syntaxe
+### NB : On ne s'attend pas à ce que le code roule , la majorité du code dans les fichiers fait références à des objets qui ne sont pas présents dans votre environnement. On s'intéresse uniquement à la syntaxe
 
 ## 6. Lorsque vous pensez avoir corrigé les erreurs de styleguide, "commitez" et "pushez" vos modifications
 
