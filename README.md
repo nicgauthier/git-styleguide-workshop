@@ -40,7 +40,6 @@ Lorsque le joueur aura mergé la branche pour faire progression son image vous d
 
 # Lorsque 4 joueur (ou tout autre multiple de 4) ont complété leur tour
 
-Votre équipe pourra ajouter un obstacle à l'équipe dont le numéro est le numéro de votre équipe + 1. Si vous êtes la dernière équipe vous ajouterez un obstacle à l'équipe 1. Pour y arriver, dites au joueur de merger la branche qui s'appelle
-"team-i-bomb-j", où est le numéro de votre équipe et j un numéro de 1 à 5, dans la branche assignée à l'équipe qui correspond à team-i+1 , où i est votre numéro d'équipe (si vous êtes la dernière équipe mergé dans la branche team-1). Commencer par la numéro 1 et utiliser les autres séquentiellement la prochaine fois que 4 joueurs complètent leur tour.
+Votre équipe pourra ajouter un obstacle à l'équipe dont le numéro est le numéro de votre équipe + 1. Si vous êtes la dernière équipe vous ajouterez un obstacle à l'équipe 1. Pour y arriver, dites au joueur de D'ajouter du texte dans une nouvelle ligne à la fin du document nommé "image" de la branche assignée à vos adversaire. Vous pouvez éditer le fichier directement dans github pour cette étape.
 
 
