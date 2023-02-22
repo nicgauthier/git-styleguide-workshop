@@ -104,8 +104,27 @@
 
 ## Avec vos nouvelles connaissances mergez la branche mentionnée par l'arbitre dans la branche assignée à votre équipe
 
-## 11. Si 4 membres de votre équipe ont complété tous ces étapes (ou tout autre multiple de 4). Votre arbitre vous dévoilera le nom d'une branche qui vous permettra d'ajouter un obstacle à l'équipe dont le numéro est le numéro de votre équipe + 1. Si vous êtes la dernière équipe vous ajouterez un obstacle à l'équipe 1. Cela ralentira leur progression en causant un "merge conflict" lorsqu'ils tenteront de faire progresser leur image.
+## 11. Si 4 membres de votre équipe ont complété tous ces étapes (ou tout autre multiple de 4), autrement allez à l'étape 12. Votre arbitre vous autorisera à modifier le fichier "image.txt" d'une autre équipe. Cela ralentira leur progression en causant un "merge conflict" lorsqu'ils tenteront de faire progresser leur image.
 
-## Si ce n'est pas le cas, l'arbitre ajoutera un nouveau fichier de lignes de code qui ne respectent pas le styleguide à votre branche et le joueur suivant doit simplement répéter les étapes 1 à 11 à son tour!
+### Dans github aller dans la branche de l'équipe à qui vous souhaiter nuire et cliquer sur le fichier nommer image.txt
+
+![](./git-workshop-images/delete_branch.PNG)
+
+### Appuyer sur l'icon de crayon pour modifier le fichier
+
+![](./git-workshop-images/delete_branch.PNG)
+
+### à la fin du document ajouter une ligne avec le nom de votre équipe
+
+![](./git-workshop-images/add_name.PNG)
+
+
+### Tout en bas de la page web ajoutez un commentaire de commit et "commitez" vos changements
+
+
+![](./git-workshop-images/commit_edit.PNG)
+
+
+## 12.L'arbitre ajoutera un nouveau fichier de lignes de code qui ne respectent pas le styleguide à votre branche et le joueur suivant doit simplement répéter les étapes 1 à 11 à son tour!
 
 # Have fun!
