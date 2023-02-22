@@ -60,7 +60,7 @@
 
 ![](./git-workshop-images/push_button.PNG)
 
-# 7. Vous voulez maintenant créer une pull request pour merger les changements que vous venez de faire dans la branche assignée à votre équipe
+## 7. Vous voulez maintenant créer une pull request pour merger les changements que vous venez de faire dans la branche assignée à votre équipe
 
 ### Dans Github cliquer sur l'onglet de pull request
 
@@ -82,13 +82,26 @@
 
 ![](./git-workshop-images/add_reviewer.PNG)
 
-
-# 8. Si votre arbitre approuve votre pull request c'est que vous avez correctement corrigé les erreurs de styleguide!
+## 8. Si votre arbitre approuve votre pull request c'est que vous avez correctement corrigé les erreurs de styleguide!
 
 ### Si ce n'est pas le cas, votre arbitre ajoutera des demandes de changements à certaines lignes du fichier pour vous orientez dans vos recherches.
+
 ### Si vous ne trouvez vraiment pas, en dernier recours l'arbitre est autorisé à vous donner des indices pour vous permettre de progresser.
 
 ![](./git-workshop-images/merge_pr.PNG)
 
 ![](./git-workshop-images/confirm_merge.PNG)
 
+## 9. Lorsque votre branche de développement a été mergée, il est bon de prendre l'habitude d'effacer sa branche
+
+![](./git-workshop-images/delete_branch.PNG)
+
+## 10. Votre arbitre vous donnera le nom de la branche à merger pour obtenir des lignes qui vous permettront de progresser dans la complétion de votre image.
+
+## Avec vos nouvelles connaissances mergez la branche mentionnée par l'arbitre dans la branche assignée à votre équipe
+
+## 11. Si 4 membres de votre équipe ont complété tous ces étapes (ou tout autre multiple de 4). Votre arbitre vous dévoilera le nom d'une branche que vous pouvez merger dans la branche d'une autre équipe qui ralentira leur progression en causant un "merge conflict" lorsqu'ils tenteront de faire progresser leur image.
+
+## Si ce n'est pas le cas, l'arbitre ajoutera un nouveau fichier de lignes de code qui ne respectent pas le styleguide à votre branche et le joueur suivant doit simplement répéter les étapes 1 à 11 à son tour!
+
+# Have fun!
