@@ -40,6 +40,6 @@ Lorsque le joueur aura mergé la branche pour faire progression son image vous d
 
 # Lorsque 4 joueur (ou tout autre multiple de 4) ont complété leur tour
 
-Votre équipe pourra ajouter un obstacle à l'équipe dont le numéro est le numéro de votre équipe + 1. Si vous êtes la dernière équipe vous ajouterez un obstacle à l'équipe 1. Pour y arriver, dites au joueur de D'ajouter du texte dans une nouvelle ligne à la fin du document nommé "image" de la branche assignée à vos adversaire. Vous pouvez éditer le fichier directement dans github pour cette étape.
+Votre équipe pourra ajouter un obstacle à l'équipe dont le numéro est le numéro de votre équipe + 1. Si vous êtes la dernière équipe vous ajouterez un obstacle à l'équipe 1. Pour y arriver, dites au joueur de D'ajouter le nom de votre équipe dans une nouvelle ligne à la fin du document nommé "image" de la branche assignée à vos adversaire. Vous pouvez éditer le fichier directement dans github pour cette étape.
 
 
