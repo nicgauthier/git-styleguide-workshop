@@ -18,6 +18,8 @@ Selectionnez la branche assignée à votre équipe. Vous pouvez soit la choisir 
 
 ![](./git-workshop-images/gh_branch.PNG)
 
+Dans la zone de texte inscrivez le nom de la branche que vous voulez créer
+
 **ATTENTION** : le nom de votre branche ne doit pas être le même qu'une branche qui existe déjà, vous devez donc vous assurer d'avoir un nom unique mais qui indique tout de même de facon claire les changements que vous allez faire!
 
 ![](./git-workshop-images/gh_create_branch.PNG)
