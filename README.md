@@ -108,21 +108,41 @@ Si vous ne trouvez vraiment pas, en dernier recours l'arbitre est autorisé à v
 
 Avec vos nouvelles connaissances mergez la branche mentionnée par l'arbitre dans la branche assignée à votre équipe (il n'est pas necessaire d'ajouter un reviewer cette fois-ci)
 
+Si votre github vous indique "Can't automatically merge" comme dans l'image ci dessous. C'est que vous avez un merge conflict, créer tout de même la pull resquest comme d'habitude.
+
+![](./git-workshop-images/mc_ind.PNG)
+
+Si vous avez un merge conflict, voici les instructions pour arriver à merger votre branche. **Si vous n'avez pas de merge conflict vous pouvez merger normalement et passer à la prochaine étape (11)**.
+
+Un conflit survient lorsque le code que vous tentez de modifier a déjà été modifier par quelqu'un d'autre avant vous. Github ne veut pas assumer quelles lignes de code sont les bonnes, il vous demande donc de le faire pour lui.
+
+Une fois la PR créee, pour régler votre merge conflict appuyer sur "resolve conflitcs"
+
+![](./git-workshop-images/resolve.PNG)
+
+Github va ouvrir un éditeur pour vous permettre de régler votre merge conflict. Comme dans l'image ci-dessous vous devriez voir 2 blocs de code délimité par des \<\<\<\<\<\< , ======= et \>\>\>\>\>\>\> qui vous permettent de voir le code qui vient de votre branche et de la branche que vous tentez de merger. Effacer les lignes que vous ne voulez pas garder ainsi que les délimiteurs et appuyer sur mark as resolve
+
+![](./git-workshop-images/mark_as_resolve.PNG)
+
+ensuite appuyer sur commit merge
+
+![](./git-workshop-images/commit_merge.PNG)
+
+Vous devriez maintenant être en mesure de merger votre branche normalement!
+
 ## 11. (Optionnel) Si 4 membres de votre équipe ont complété les étapes 1 à 10 autrement continuer cette étape, autrement allez directement à l'étape 12.
 
 Votre arbitre vous autorisera à modifier le fichier "image.txt" d'une autre équipe. Cela ralentira leur progression en causant un "merge conflict" lorsqu'ils tenteront de faire progresser leur image.
 
 Dans github aller dans la branche de l'équipe à qui vous souhaiter nuire et cliquer sur le fichier nommer image.txt
 
-![](./git-workshop-images/delete_branch.PNG)
+![](./git-workshop-images/image_file.PNG)
 
 Appuyer sur l'icon de crayon pour modifier le fichier
 
-![](./git-workshop-images/delete_branch.PNG)
+![](./git-workshop-images/edit_button.PNG)
 
 à la fin du document ajouter une ligne avec le nom de votre équipe
-
-![](./git-workshop-images/add_name.PNG)
 
 Tout en bas de la page web ajoutez un commentaire de commit et "commitez" vos changements
 
