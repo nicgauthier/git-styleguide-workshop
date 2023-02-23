@@ -136,15 +136,13 @@ Votre arbitre vous autorisera à modifier le fichier "image.txt" d'une autre éq
 
 Dans github aller dans la branche de l'équipe à qui vous souhaiter nuire et cliquer sur le fichier nommer image.txt
 
-![](./git-workshop-images/delete_branch.PNG)
+![](./git-workshop-images/image_file.PNG)
 
 Appuyer sur l'icon de crayon pour modifier le fichier
 
-![](./git-workshop-images/delete_branch.PNG)
+![](./git-workshop-images/edit_button.PNG)
 
 à la fin du document ajouter une ligne avec le nom de votre équipe
-
-![](./git-workshop-images/add_name.PNG)
 
 Tout en bas de la page web ajoutez un commentaire de commit et "commitez" vos changements
 
