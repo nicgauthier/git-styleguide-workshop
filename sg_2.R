@@ -1,11 +1,7 @@
 list_dt <- tests.data::inforce_ppv_after_pp
 
+list_dt$products[, nbr_row := .N]
 
-nombre_ligne <- list_dt$products[,  .N]
-list_dt$products[,  nombre_ligne := .N]
+set(list_dt$products, j = "age_0_ind", value = fifelse(list_dt$products$prod_age == 0, 1, 0))
 
-list_dt$products$indicateur_age_a_0 <- 0
-list_dt$products[prod_age == 0, indicateur_age_a_0 := 1]
-
-list_dt$products$prod_annual_dist_km_plus_grand_40 <- 0
-list_dt$products[prod_annual_dist_km > 40, prod_annual_dist_km_plus_grand_40 := 1]
+set(list_dt$products, j = "prod_annual_dist_km_gt_40", value = fifelse(list_dt$products$prod_annual_dist_km > 40, 1, 0))
